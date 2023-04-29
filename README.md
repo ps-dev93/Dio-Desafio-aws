@@ -1,5 +1,5 @@
 # Dio-Desafio de Projeto Banco Pan - Java Developer
-- Clonar o projeto raiz e implementar uma nova tabela e inserir novos itens nela
+- Implementar uma nova tabela e inserir novos itens nela
 
 
 ### Serviço utilizado
