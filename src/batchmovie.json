@@ -1,0 +1,31 @@
+{
+    "Movie": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Nome": {"S": "Titanic"},
+                  "Genero": {"S": "Romance"},
+                  "Ano": {"S": "1997"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Nome": {"S": "Avatar"},
+                  "Genero": {"S": "Ficcao"},
+                  "Ano": {"S": "2009"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Nome": {"S": "Doce Vinganca"},
+                  "Genero": {"S": "Suspense"},
+                  "Ano": {"S": "2011"}
+                }
+            }
+        }
+      ]
+}
